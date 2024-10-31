@@ -1,4 +1,6 @@
+
 public class Exercice3 {
+
     public static void main(String[] args) {
         if (args.length > 0) {
             int age = Integer.parseInt(args[0]);
